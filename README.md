@@ -13,5 +13,14 @@
 
 
 *Here is my results
+Test1
+*![](https://github.com/tural327/face_recognition/blob/main/test1.png)
 
-*![](https://github.com/tural327/face_recognition/blob/main/result.png)
+Test2
+*![](https://github.com/tural327/face_recognition/blob/main/test2.png)
+
+Test3
+*![](https://github.com/tural327/face_recognition/blob/main/test3.png)
+
+Test4
+*![](https://github.com/tural327/face_recognition/blob/main/test4.png)
